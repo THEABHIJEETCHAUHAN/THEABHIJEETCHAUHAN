@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theabhijeetchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="theabhijeetchauhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theabhijeetchauhan" alt="theabhijeetchauhan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_the_abhijeet_" target="blank"><img src="https://img.shields.io/twitter/follow/_the_abhijeet_?logo=twitter&style=for-the-badge" alt="_the_abhijeet_" /></a> </p>
 
 - 🔭 I’m currently working on [Diagnosis-Tracker](https://github.com/THEABHIJEETCHAUHAN/Diagnosis-Tracker)
 
 - 👨‍💻 All of my projects are available at [https://abhiheetsinghh.netlify.app/](https://abhiheetsinghh.netlify.app/)
 
-- 📫 How to reach me **bhadouriashivani85@gmail.com**
+- 📫 How to reach me **abhijeetchauhan105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
